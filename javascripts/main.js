@@ -1,1 +1,2 @@
-console.log('This would be the main JS file.');
+console.log("Loaded Front Page")
+console.warn("MultMine Is Watching You...")
